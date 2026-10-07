@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-07 19:41:23,http:///ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
+2026-10-08 05:59:16,http:///ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
 
 ,#genre#
 
@@ -93,8 +93,8 @@ CCTV-17,http:///ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8
 辽宁生活,http://120.76.248.139/live/bfgd/4200000073.m3u8
 辽宁经济,http://120.76.248.139/live/bfgd/4200000076.m3u8
 辽宁经济,http://120.76.248.139/live/bfgd/4200000480.m3u8
-辽宁都市,http://120.76.248.139/live/bfgd/4200000610.m3u8
 辽宁都市,http://120.76.248.139/live/bfgd/4200000068.m3u8
+辽宁都市,http://120.76.248.139/live/bfgd/4200000610.m3u8
 
 ☘️湖南频道,#genre#
 
@@ -178,10 +178,10 @@ CCTV-17,http:///ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8
 哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8?zheild
 哈尔滨影视,http://stream.hrbtv.net/yspd/playlist.m3u8
 哈尔滨资讯,http://stream.hrbtv.net/zxpd/playlist.m3u8
-哈尔滨生活,http://stream.hrbtv.net/shpd/playlist.m3u8
 哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild
-哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild
+哈尔滨生活,http://stream.hrbtv.net/shpd/playlist.m3u8
 哈尔滨娱乐,http://stream.hrbtv.net/ylpd/playlist.m3u8
+哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild
 七台河新闻综合,http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
 佳木斯新闻综合,http:///ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226451/index.m3u8
 
