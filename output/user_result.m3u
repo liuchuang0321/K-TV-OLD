@@ -1,5 +1,5 @@
-#EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/liuchuang0321/K-TV/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="# 测试用频道列表" tvg-logo="# 测试用频道列表.png" group-title="🕘️更新时间",2026-10-08 05:59:16
+#EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/liuchuang0321/K-TV-OLD/refs/heads/master/output/epg/epg.gz"
+#EXTINF:-1 tvg-name="# 测试用频道列表" tvg-logo="# 测试用频道列表.png" group-title="🕘️更新时间",2026-10-08 19:56:19
 http:///ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="📺央视频道",CCTV-1
 http:///ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
@@ -499,16 +499,24 @@ https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
 https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
 #EXTINF:-1 tvg-name="朝阳新闻综合" tvg-logo="朝阳新闻综合.png" group-title="☘️辽宁频道",朝阳新闻综合
 http://120.76.248.139/live/bfgd/4200000282.m3u8
+#EXTINF:-1 tvg-name="辽宁北方" tvg-logo="辽宁北方.png" group-title="☘️辽宁频道",辽宁北方
+http://dassby.qqff.top:99/live/辽宁北方/index.m3u8
 #EXTINF:-1 tvg-name="辽宁影视剧" tvg-logo="辽宁影视剧.png" group-title="☘️辽宁频道",辽宁影视剧
 http://120.76.248.139/live/bfgd/4200000070.m3u8
 #EXTINF:-1 tvg-name="辽宁教育青少" tvg-logo="辽宁教育青少.png" group-title="☘️辽宁频道",辽宁教育青少
 http://120.76.248.139/live/bfgd/4200000075.m3u8
 #EXTINF:-1 tvg-name="辽宁生活" tvg-logo="辽宁生活.png" group-title="☘️辽宁频道",辽宁生活
+http://dassby.qqff.top:99/live/辽宁生活/index.m3u8
+#EXTINF:-1 tvg-name="辽宁生活" tvg-logo="辽宁生活.png" group-title="☘️辽宁频道",辽宁生活
 http://120.76.248.139/live/bfgd/4200000073.m3u8
+#EXTINF:-1 tvg-name="辽宁经济" tvg-logo="辽宁经济.png" group-title="☘️辽宁频道",辽宁经济
+http://dassby.qqff.top:99/live/辽宁经济/index.m3u8
 #EXTINF:-1 tvg-name="辽宁经济" tvg-logo="辽宁经济.png" group-title="☘️辽宁频道",辽宁经济
 http://120.76.248.139/live/bfgd/4200000076.m3u8
 #EXTINF:-1 tvg-name="辽宁经济" tvg-logo="辽宁经济.png" group-title="☘️辽宁频道",辽宁经济
 http://120.76.248.139/live/bfgd/4200000480.m3u8
+#EXTINF:-1 tvg-name="辽宁都市" tvg-logo="辽宁都市.png" group-title="☘️辽宁频道",辽宁都市
+http://dassby.qqff.top:99/live/辽宁都市/index.m3u8
 #EXTINF:-1 tvg-name="辽宁都市" tvg-logo="辽宁都市.png" group-title="☘️辽宁频道",辽宁都市
 http://120.76.248.139/live/bfgd/4200000068.m3u8
 #EXTINF:-1 tvg-name="辽宁都市" tvg-logo="辽宁都市.png" group-title="☘️辽宁频道",辽宁都市
@@ -660,9 +668,9 @@ http://stream.hrbtv.net/yspd/playlist.m3u8
 #EXTINF:-1 tvg-name="哈尔滨资讯" tvg-logo="哈尔滨资讯.png" group-title="☘️黑龙江频道",哈尔滨资讯
 http://stream.hrbtv.net/zxpd/playlist.m3u8
 #EXTINF:-1 tvg-name="哈尔滨生活" tvg-logo="哈尔滨生活.png" group-title="☘️黑龙江频道",哈尔滨生活
-http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild
-#EXTINF:-1 tvg-name="哈尔滨生活" tvg-logo="哈尔滨生活.png" group-title="☘️黑龙江频道",哈尔滨生活
 http://stream.hrbtv.net/shpd/playlist.m3u8
+#EXTINF:-1 tvg-name="哈尔滨生活" tvg-logo="哈尔滨生活.png" group-title="☘️黑龙江频道",哈尔滨生活
+http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild
 #EXTINF:-1 tvg-name="哈尔滨娱乐" tvg-logo="哈尔滨娱乐.png" group-title="☘️黑龙江频道",哈尔滨娱乐
 http://stream.hrbtv.net/ylpd/playlist.m3u8
 #EXTINF:-1 tvg-name="哈尔滨娱乐" tvg-logo="哈尔滨娱乐.png" group-title="☘️黑龙江频道",哈尔滨娱乐
@@ -759,6 +767,8 @@ http://r.jdshipin.com/LiYdg
 http://cdn2.163189.xyz/live/gdty/stream.m3u8
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="五星体育.png" group-title="🏀体育频道",五星体育
 https://zby.130519.xyz/PLTV/11/224/3221225732/index.m3u8
+#EXTINF:-1 tvg-name="辽宁体育" tvg-logo="辽宁体育.png" group-title="🏀体育频道",辽宁体育
+http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="睛彩篮球.png" group-title="🏀体育频道",睛彩篮球
 https://zby.130519.xyz/PLTV/11/224/3221226118/index.m3u8
 #EXTINF:-1 tvg-name="天元围棋" tvg-logo="天元围棋.png" group-title="🏀体育频道",天元围棋
