@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/liuchuang0321/K-TV-OLD/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="# 测试用频道列表" tvg-logo="# 测试用频道列表.png" group-title="🕘️更新时间",2026-11-03 07:48:37
+#EXTINF:-1 tvg-name="# 测试用频道列表" tvg-logo="# 测试用频道列表.png" group-title="🕘️更新时间",2026-11-03 20:44:48
 http:///ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="📺央视频道",CCTV-1
 http:///ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
@@ -335,6 +335,8 @@ http://[2409:8087:2001:20:2800:0:df6e:eb16]/wh7f454c46tw3102310989_-1844874138/o
 http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/ott.mobaibox.com/PLTV/4/224/3221227485/index.m3u8
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001035/index.m3u8
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="内蒙古卫视.png" group-title="📡卫视频道",内蒙古卫视
+http://120.76.248.139/live/bfgd/4200000110.m3u8
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="宁夏卫视.png" group-title="📡卫视频道",宁夏卫视
 http://120.76.248.139/live/bfgd/4200000118.m3u8
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="青海卫视.png" group-title="📡卫视频道",青海卫视
@@ -401,8 +403,6 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32212
 http://r.jdshipin.com/iR6Gq
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="广州综合.png" group-title="☘️广东频道",广州综合
 http://r.jdshipin.com/snhya
-#EXTINF:-1 tvg-name="广州竞赛" tvg-logo="广州竞赛.png" group-title="☘️广东频道",广州竞赛
-http://8.138.7.223/tv/gzjs.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="深圳卫视.png" group-title="☘️广东频道",深圳卫视
 http:///ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226313/index.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="深圳卫视.png" group-title="☘️广东频道",深圳卫视
@@ -510,9 +510,9 @@ http://120.76.248.139/live/bfgd/4200000073.m3u8
 #EXTINF:-1 tvg-name="辽宁生活" tvg-logo="辽宁生活.png" group-title="☘️辽宁频道",辽宁生活
 http://dassby.qqff.top:99/live/辽宁生活/index.m3u8
 #EXTINF:-1 tvg-name="辽宁经济" tvg-logo="辽宁经济.png" group-title="☘️辽宁频道",辽宁经济
-http://120.76.248.139/live/bfgd/4200000076.m3u8
-#EXTINF:-1 tvg-name="辽宁经济" tvg-logo="辽宁经济.png" group-title="☘️辽宁频道",辽宁经济
 http://120.76.248.139/live/bfgd/4200000480.m3u8
+#EXTINF:-1 tvg-name="辽宁经济" tvg-logo="辽宁经济.png" group-title="☘️辽宁频道",辽宁经济
+http://120.76.248.139/live/bfgd/4200000076.m3u8
 #EXTINF:-1 tvg-name="辽宁经济" tvg-logo="辽宁经济.png" group-title="☘️辽宁频道",辽宁经济
 http://dassby.qqff.top:99/live/辽宁经济/index.m3u8
 #EXTINF:-1 tvg-name="辽宁都市" tvg-logo="辽宁都市.png" group-title="☘️辽宁频道",辽宁都市
@@ -545,8 +545,6 @@ https://zby.130519.xyz/PLTV/11/224/3221225742/index.m3u8
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226459/index.m3u8
 #EXTINF:-1 tvg-name="乐至综合" tvg-logo="乐至综合.png" group-title="☘️四川频道",乐至综合
 http://175.155.106.72:89/live1/live1.m3u8?zsicd
-#EXTINF:-1 tvg-name="四川科教" tvg-logo="四川科教.png" group-title="☘️四川频道",四川科教
-http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 #EXTINF:-1 tvg-name="广安公共" tvg-logo="广安公共.png" group-title="☘️四川频道",广安公共
 http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8?zsicd
 #EXTINF:-1 tvg-name="汉源综合" tvg-logo="汉源综合.png" group-title="☘️四川频道",汉源综合

@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-03 07:48:37,http:///ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
+2026-11-03 20:44:48,http:///ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
 
 ,#genre#
 
@@ -44,6 +44,7 @@ CCTV-17,http:///ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8
 吉林卫视,http:///ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226397/index.m3u8
 江苏卫视,http:///ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226310/index.m3u8
 江西卫视,http:///ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226344/index.m3u8
+内蒙古卫视,http://120.76.248.139/live/bfgd/4200000110.m3u8
 宁夏卫视,http://120.76.248.139/live/bfgd/4200000118.m3u8
 山东卫视,http:///ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226456/index.m3u8
 四川卫视,http:///ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226338/index.m3u8
@@ -54,7 +55,6 @@ CCTV-17,http:///ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8
 
 ☘️广东频道,#genre#
 广东卫视,http:///ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226248/index.m3u8
-广州竞赛,http://8.138.7.223/tv/gzjs.m3u8
 深圳卫视,http:///ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226313/index.m3u8
 
 ☘️浙江频道,#genre#
@@ -93,8 +93,8 @@ CCTV-17,http:///ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8
 辽宁教育青少,http://120.76.248.139/live/bfgd/4200000075.m3u8
 辽宁生活,http://120.76.248.139/live/bfgd/4200000073.m3u8
 辽宁生活,http://dassby.qqff.top:99/live/辽宁生活/index.m3u8
-辽宁经济,http://120.76.248.139/live/bfgd/4200000076.m3u8
 辽宁经济,http://120.76.248.139/live/bfgd/4200000480.m3u8
+辽宁经济,http://120.76.248.139/live/bfgd/4200000076.m3u8
 辽宁经济,http://dassby.qqff.top:99/live/辽宁经济/index.m3u8
 辽宁都市,http://120.76.248.139/live/bfgd/4200000610.m3u8
 辽宁都市,http://120.76.248.139/live/bfgd/4200000068.m3u8
@@ -112,7 +112,6 @@ CCTV-17,http:///ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8
 
 ☘️四川频道,#genre#
 乐至综合,http://175.155.106.72:89/live1/live1.m3u8?zsicd
-四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 沐川综合,rtmp://tv.mcrm.org.cn:1935/channellive/tv01
 石棉综合,rtmp://tv.yunxya.com:1937/channellive/shimian
 荥经综合,https://m3u8channel-yj.yunxya.com/nmip-media/channellive/channel101140/playlist.m3u8
