@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-06 06:31:40,http:///ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
+2026-11-06 20:50:54,http:///ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
 
 ,#genre#
 
@@ -58,14 +58,6 @@ CCTV-17,http:///ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8
 深圳卫视,http:///ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226313/index.m3u8
 
 ☘️浙江频道,#genre#
-浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 龙泉新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
 青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 象山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
@@ -91,14 +83,14 @@ CCTV-17,http:///ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8
 辽宁北方,http://dassby.qqff.top:99/live/辽宁北方/index.m3u8
 辽宁影视剧,http://120.76.248.139/live/bfgd/4200000070.m3u8
 辽宁教育青少,http://120.76.248.139/live/bfgd/4200000075.m3u8
-辽宁生活,http://120.76.248.139/live/bfgd/4200000073.m3u8
 辽宁生活,http://dassby.qqff.top:99/live/辽宁生活/index.m3u8
-辽宁经济,http://120.76.248.139/live/bfgd/4200000480.m3u8
-辽宁经济,http://120.76.248.139/live/bfgd/4200000076.m3u8
+辽宁生活,http://120.76.248.139/live/bfgd/4200000073.m3u8
 辽宁经济,http://dassby.qqff.top:99/live/辽宁经济/index.m3u8
-辽宁都市,http://120.76.248.139/live/bfgd/4200000610.m3u8
-辽宁都市,http://120.76.248.139/live/bfgd/4200000068.m3u8
+辽宁经济,http://120.76.248.139/live/bfgd/4200000076.m3u8
+辽宁经济,http://120.76.248.139/live/bfgd/4200000480.m3u8
 辽宁都市,http://dassby.qqff.top:99/live/辽宁都市/index.m3u8
+辽宁都市,http://120.76.248.139/live/bfgd/4200000068.m3u8
+辽宁都市,http://120.76.248.139/live/bfgd/4200000610.m3u8
 
 ☘️湖南频道,#genre#
 
@@ -112,6 +104,7 @@ CCTV-17,http:///ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8
 
 ☘️四川频道,#genre#
 乐至综合,http://175.155.106.72:89/live1/live1.m3u8?zsicd
+四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 沐川综合,rtmp://tv.mcrm.org.cn:1935/channellive/tv01
 石棉综合,rtmp://tv.yunxya.com:1937/channellive/shimian
 荥经综合,https://m3u8channel-yj.yunxya.com/nmip-media/channellive/channel101140/playlist.m3u8
@@ -177,8 +170,8 @@ CCTV-17,http:///ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8
 哈尔滨资讯,http://stream.hrbtv.net/zxpd/playlist.m3u8
 哈尔滨生活,http://stream.hrbtv.net/shpd/playlist.m3u8
 哈尔滨生活,http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild
-哈尔滨娱乐,http://stream.hrbtv.net/ylpd/playlist.m3u8
 哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild
+哈尔滨娱乐,http://stream.hrbtv.net/ylpd/playlist.m3u8
 七台河新闻综合,http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
 佳木斯新闻综合,http:///ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226451/index.m3u8
 
