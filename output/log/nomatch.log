@@ -56,21 +56,49 @@ NHTV,http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
 Persiana Korea,http://51.210.199.14/hls/stream.m3u8
 Planet Earth,https://vtsstr7.tv24.vn/live/smil:Planet_Earth.smil/chunklist.m3u8
 Running Man-2,http://epg.112114.xyz/douyu/131977
+HBO,http://gg.gg/HaNoiIPTV-HBO_HD
 SBS,http://1.245.74.5:1935/live/tv/playlist.m3u8
+纯享4K,http://zwg.life:50001/TVOD/1000000004000011651/ystenlive/index.m3u8
+﻿上海金山,http://livejs1.newsjs.net/jspd/playlist.m3u8
+4K,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000196/index.m3u8?IAS
+HBO,https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b2500000.m3u8
+无线新闻,http://iptv12k.com:35461/live/test167/12345/1012.m3u8
 SBS,http://8.ykwlm.sinaapp.com/han3.php?id=14
+欢笑剧场4K,http://zwg.life:50001/TVOD/5000000007000010001/bestzb/index.m3u8
+房山无线,http://live.funhillrm.com/2/playlist.m3u8
+4K,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000197/index.m3u8?IAS
+HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoca
+cetv1[768*576],http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
+无线财经,http://iptv12k.com:35461/live/test167/12345/1012.m3u8
 SBS,https://d2a2z5wd1u31lp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-10pb6vgdcdmd3-prod/hls-harvester2-1293-prod/us-east-1/cc-10pb6vgdcdmd3/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+华数4K,http://zwg.life:50001/TVOD/6000000003000004748/wasusyt/index.m3u8
+房山有线,http://live.funhillrm.com/5/playlist.m3u8
+4K,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
+HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
+cetv4[768*576],http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
+TVB经典,http://iptv12k.com:35461/live/test167/12345/1003.m3u8
 SBS,https://dklmpoftme5ly.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ig8f3xt8vbpcg-prod/hls-harvester2-1293-prod/us-east-1/cc-ig8f3xt8vbpcg/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+华数4K,http://zwg.life:50001/TVOD/2000000004000000014/hnbblive/index.m3u8
+石景山,http://live.sjsrm.com/bjsjs/playlist.m3u8
+4K,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000197/index.m3u8?IAS
+HBO Asia,https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
+cgtn[768*576],http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
+TVB娱乐新闻,http://iptv12k.com:35461/live/test167/12345/1001.m3u8
 SBS,https://dm72lx2w7znja.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-658a8vltn9ut6-prod/hls-harvester2-1293-prod/us-east-1/cc-658a8vltn9ut6/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+兵团卫视,http://zwg.life:50001/TVOD/1000000005000266005/ystenlive/index.m3u8
+河北经济,http://live2.plus.hebtv.com/jjshx/playlist.m3u8
+4K,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000196/index.m3u8?
+HBO,http://220.134.196.147:9557/index.m3u8
+cgtn纪录[785*576],http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8
+星河,http://iptv12k.com:35461/live/test167/12345/1000.m3u8
 SBS,https://d3qf0zy79zrp4j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jku0o3d6cdg6d-prod/hls-harvester2-1293-prod/us-east-1/cc-jku0o3d6cdg6d/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+兵团卫视,http://zwg.life:50001/TVOD/5000000006000040020/bestzb/index.m3u8
+河北影视剧,http://live6.plus.hebtv.com/hbysx/playlist.m3u8
+4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000196/index.m3u8?
+HBO,https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b2500000.m3u8
+newtv爱情喜剧,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
+有线603,http://iptv12k.com:35461/live/test167/12345/1023.m3u8
 SBS,https://d303zg8wpbocww.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-57imp9bv8y60f-prod/hls-harvester2-1293-prod/us-east-1/cc-57imp9bv8y60f/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-SBS,http://183.99.22.189:9981/stream/channelid/1124346476
-SBS,http://119.200.131.11:1935/KBCTV/tv/chunklist_w1292651282.m3u8
-Shinsegae TV Shopping,https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
-SilveriTV,http://live.silveritv.kr:8080/hls/stream.m3u8
-SK stoa,http://cast.bshopping.co.kr:8080/live/BSHOPPING.daml/playlist.m3u8
-TBS,https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
-TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-TJB,http://1.245.74.5:1935/live/tv/.m3u8
-Woman,https://vtsstr7.tv24.vn/live/smil:Woman.smil/chunklist.m3u8
-韩国音乐,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-频道呼吸,http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
+嘉佳卡通,http://zwg.life:50001/TVOD/1000000002000025964/ystenlive/index.m3u8
+河北少儿,http://live6.plus.hebtv.com/sekjx/playlist.m3u8
+4K,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
