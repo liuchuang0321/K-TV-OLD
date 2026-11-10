@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/liuchuang0321/K-TV-OLD/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="# 测试用频道列表" tvg-logo="# 测试用频道列表.png" group-title="🕘️更新时间",2026-11-09 21:45:46
+#EXTINF:-1 tvg-name="# 测试用频道列表" tvg-logo="# 测试用频道列表.png" group-title="🕘️更新时间",2026-11-10 08:33:43
 http:///ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="CCTV1.png" group-title="📺央视频道",CCTV-1
 http:///ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
@@ -371,8 +371,6 @@ http://iptv.huuc.edu.cn/hls/szhd.m3u8
 https://zby.130519.xyz/PLTV/11/224/3221225728/index.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="深圳卫视.png" group-title="📡卫视频道",深圳卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226313/index.m3u8
-#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="三沙卫视.png" group-title="📡卫视频道",三沙卫视
-http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="天津卫视.png" group-title="📡卫视频道",天津卫视
 http:///ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226459/index.m3u8
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="天津卫视.png" group-title="📡卫视频道",天津卫视
@@ -510,9 +508,9 @@ http://120.76.248.139/live/bfgd/4200000073.m3u8
 #EXTINF:-1 tvg-name="辽宁生活" tvg-logo="辽宁生活.png" group-title="☘️辽宁频道",辽宁生活
 http://dassby.qqff.top:99/live/辽宁生活/index.m3u8
 #EXTINF:-1 tvg-name="辽宁经济" tvg-logo="辽宁经济.png" group-title="☘️辽宁频道",辽宁经济
-http://120.76.248.139/live/bfgd/4200000480.m3u8
-#EXTINF:-1 tvg-name="辽宁经济" tvg-logo="辽宁经济.png" group-title="☘️辽宁频道",辽宁经济
 http://120.76.248.139/live/bfgd/4200000076.m3u8
+#EXTINF:-1 tvg-name="辽宁经济" tvg-logo="辽宁经济.png" group-title="☘️辽宁频道",辽宁经济
+http://120.76.248.139/live/bfgd/4200000480.m3u8
 #EXTINF:-1 tvg-name="辽宁经济" tvg-logo="辽宁经济.png" group-title="☘️辽宁频道",辽宁经济
 http://dassby.qqff.top:99/live/辽宁经济/index.m3u8
 #EXTINF:-1 tvg-name="辽宁都市" tvg-logo="辽宁都市.png" group-title="☘️辽宁频道",辽宁都市
@@ -567,16 +565,6 @@ https://play.yunxya.com/channellive/xinwen.m3u8
 http://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="厦门卫视.png" group-title="☘️福建频道",厦门卫视
 http://e2.woc.iiiya.cn:28888/rtp/239.61.2.11:8060
-#EXTINF:-1 tvg-name="海南新闻" tvg-logo="海南新闻.png" group-title="☘️海南频道",海南新闻
-http://nn.7x9d.cn/地方台8563/海南.php?id=xwpd
-#EXTINF:-1 tvg-name="海南自贸" tvg-logo="海南自贸.png" group-title="☘️海南频道",海南自贸
-http://nn.7x9d.cn/地方台8563/海南.php?id=jjpd
-#EXTINF:-1 tvg-name="海南文旅" tvg-logo="海南文旅.png" group-title="☘️海南频道",海南文旅
-http://nn.7x9d.cn/地方台8563/海南.php?id=wlpd
-#EXTINF:-1 tvg-name="海南少儿" tvg-logo="海南少儿.png" group-title="☘️海南频道",海南少儿
-http://nn.7x9d.cn/地方台8563/海南.php?id=sepd
-#EXTINF:-1 tvg-name="海南公共" tvg-logo="海南公共.png" group-title="☘️海南频道",海南公共
-http://nn.7x9d.cn/地方台8563/海南.php?id=ggpd
 #EXTINF:-1 tvg-name="鹿泉一套" tvg-logo="鹿泉一套.png" group-title="☘️河北频道",鹿泉一套
 https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="邯郸科技教育" tvg-logo="邯郸科技教育.png" group-title="☘️河北频道",邯郸科技教育

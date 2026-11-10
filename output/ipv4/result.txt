@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-09 21:45:46,http:///ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
+2026-11-10 08:33:43,http:///ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
 
 ,#genre#
 
@@ -50,7 +50,6 @@ CCTV-17,http:///ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8
 四川卫视,http:///ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226338/index.m3u8
 四川卫视,http:///ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226513/index.m3u8
 深圳卫视,http:///ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226313/index.m3u8
-三沙卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
 天津卫视,http:///ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226459/index.m3u8
 
 ☘️广东频道,#genre#
@@ -93,8 +92,8 @@ CCTV-17,http:///ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8
 辽宁教育青少,http://120.76.248.139/live/bfgd/4200000075.m3u8
 辽宁生活,http://120.76.248.139/live/bfgd/4200000073.m3u8
 辽宁生活,http://dassby.qqff.top:99/live/辽宁生活/index.m3u8
-辽宁经济,http://120.76.248.139/live/bfgd/4200000480.m3u8
 辽宁经济,http://120.76.248.139/live/bfgd/4200000076.m3u8
+辽宁经济,http://120.76.248.139/live/bfgd/4200000480.m3u8
 辽宁经济,http://dassby.qqff.top:99/live/辽宁经济/index.m3u8
 辽宁都市,http://120.76.248.139/live/bfgd/4200000610.m3u8
 辽宁都市,http://120.76.248.139/live/bfgd/4200000068.m3u8
@@ -127,11 +126,6 @@ CCTV-17,http:///ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8
 厦门卫视,http://e2.woc.iiiya.cn:28888/rtp/239.61.2.11:8060
 
 ☘️海南频道,#genre#
-海南新闻,http://nn.7x9d.cn/地方台8563/海南.php?id=xwpd
-海南自贸,http://nn.7x9d.cn/地方台8563/海南.php?id=jjpd
-海南文旅,http://nn.7x9d.cn/地方台8563/海南.php?id=wlpd
-海南少儿,http://nn.7x9d.cn/地方台8563/海南.php?id=sepd
-海南公共,http://nn.7x9d.cn/地方台8563/海南.php?id=ggpd
 
 ☘️河南频道,#genre#
 
